@@ -1,0 +1,35 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "FieldContent",
+				"value": "must",
+				"type": "Text"
+			},
+			"time_period": {
+				"__TYPE__": "FieldContent",
+				"value": "shadow",
+				"type": "Text"
+			},
+			"institution": {
+				"__TYPE__": "FieldContent",
+				"value": "does",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cillum duis ad ullamco do ullamco nulla laborum irure pariatur nisi ipsum."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
